@@ -1,4 +1,5 @@
 .env
 *.png
 link.txt
-dc_venv
+dc_venv/
+*.zip
